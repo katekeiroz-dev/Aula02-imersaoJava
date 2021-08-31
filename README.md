@@ -1,3 +1,3 @@
-# Aula02
-Projeto da Aula 02 do curso de Lógica de Programação em Java
+# Class02
+Project for Class 02 of the Java Programming Logic course
 
