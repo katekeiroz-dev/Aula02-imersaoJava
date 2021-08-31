@@ -2,5 +2,6 @@
 Project for Class 02 of the Java Programming Logic course
 
 ### ✅ Contents of the class 02
-Java language , syntax and working with variables
+-Java language , syntax and working with variables,<br>
+Simple, composite and chained conditional
 
